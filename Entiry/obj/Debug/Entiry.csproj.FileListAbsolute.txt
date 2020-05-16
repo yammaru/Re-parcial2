@@ -1,0 +1,5 @@
+C:\Users\usuario2\source\repos\Parcial\Entiry\bin\Debug\Entiry.dll
+C:\Users\usuario2\source\repos\Parcial\Entiry\bin\Debug\Entiry.pdb
+C:\Users\usuario2\source\repos\Parcial\Entiry\obj\Debug\Entiry.csprojAssemblyReference.cache
+C:\Users\usuario2\source\repos\Parcial\Entiry\obj\Debug\Entiry.dll
+C:\Users\usuario2\source\repos\Parcial\Entiry\obj\Debug\Entiry.pdb
